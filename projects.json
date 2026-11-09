@@ -1,0 +1,130 @@
+{
+  "projects": [
+    {
+      "slug": "boa-group-corporate-brochure",
+      "title": "BOA Group — Corporate Brochure",
+      "category": "Brochures",
+      "type": "Corporate brochure",
+      "description": "A corporate brochure presenting BOA Group’s global presence, customer footprint and power-generation solutions.",
+      "image": "/assets/images/brochure-boa-group.jpg",
+      "featured": true
+    },
+    {
+      "slug": "moringa-brand-brochure",
+      "title": "Moringa — Brand Brochure",
+      "category": "Brochures",
+      "type": "Editorial brochure",
+      "description": "A clean editorial brochure concept using product imagery, restrained typography and generous white space.",
+      "image": "/assets/images/brochure-moringa.jpg",
+      "featured": true
+    },
+    {
+      "slug": "interior-design-brochure",
+      "title": "Interior Design — Property Brochure",
+      "category": "Brochures",
+      "type": "Marketing brochure",
+      "description": "A modern property brochure layout combining interior photography, service information and a clear editorial grid.",
+      "image": "/assets/images/brochure-interior-design.jpg",
+      "featured": false
+    },
+    {
+      "slug": "samsung-galaxy-security-comparison",
+      "title": "Galaxy — Market Comparison",
+      "category": "Flyers",
+      "type": "Product marketing collateral",
+      "description": "A structured comparison layout communicating enterprise device security, service and market differences.",
+      "image": "/assets/images/samsung-market-comparison.jpg",
+      "featured": true
+    },
+    {
+      "slug": "samsung-galaxy-ai",
+      "title": "Galaxy AI — Product Information",
+      "category": "Business Documents",
+      "type": "Product information sheet",
+      "description": "A multi-section product information layout explaining Galaxy AI features for everyday business use.",
+      "image": "/assets/images/samsung-galaxy-ai.jpg",
+      "featured": false
+    },
+    {
+      "slug": "samsung-enterprise-lineup",
+      "title": "Galaxy — Enterprise Product Line-up",
+      "category": "Business Documents",
+      "type": "Product overview",
+      "description": "A product-family overview with clear model groupings, feature summaries and product imagery.",
+      "image": "/assets/images/samsung-enterprise-lineup.jpg",
+      "featured": true
+    },
+    {
+      "slug": "samsung-bsi-security",
+      "title": "Galaxy — IT Security Information",
+      "category": "Business Documents",
+      "type": "Corporate information sheet",
+      "description": "A detailed information sheet presenting security certification, business benefits and supporting product information.",
+      "image": "/assets/images/samsung-bsi-security.jpg",
+      "featured": false
+    },
+    {
+      "slug": "t1d-warriors-event-flyer",
+      "title": "T1D Warriors — Golf Fundraiser",
+      "category": "Flyers",
+      "type": "Event flyer",
+      "description": "A promotional event flyer for a charity golf fundraiser, with a strong headline, event details and registration call to action.",
+      "image": "/assets/images/flyer-type-1-golf-event.jpg",
+      "featured": true
+    },
+    {
+      "slug": "goat-disputifier-smart-resolutions",
+      "title": "GOAT Payments / Disputifier — Smart Resolutions",
+      "category": "One-Pagers",
+      "type": "Marketing one-pager",
+      "description": "A multi-page marketing presentation introducing a smart chargeback-resolution solution and its business benefits.",
+      "image": "/assets/images/one-pager-goat-disputifier.jpg",
+      "featured": true
+    },
+    {
+      "slug": "blue-oak-case-study",
+      "title": "Blue Oak — Customer Case Study",
+      "category": "One-Pagers",
+      "type": "Case study",
+      "description": "A concise case-study layout organizing the challenge, solution and results into a clear business narrative.",
+      "image": "/assets/images/one-pager-blue-oak-case-study.jpg",
+      "featured": false
+    },
+    {
+      "slug": "triada-networks-overview",
+      "title": "Triada Networks — Company Overview",
+      "category": "One-Pagers",
+      "type": "Corporate one-pager",
+      "description": "A corporate overview sheet presenting positioning, capabilities, target clients and key information.",
+      "image": "/assets/images/one-pager-triada-networks.jpg",
+      "featured": true
+    },
+    {
+      "slug": "virio-fintech-overview",
+      "title": "Virio — FinTech Overview",
+      "category": "One-Pagers",
+      "type": "Sales one-pager",
+      "description": "A compact overview presenting a fintech business, proof points, case studies and service options.",
+      "image": "/assets/images/one-pager-virio.jpg",
+      "featured": false
+    },
+    {
+      "slug": "best-one-fleet-postcard",
+      "title": "Best One Fleet — Promotional Postcard",
+      "category": "Print & Digital",
+      "type": "Direct-mail postcard",
+      "description": "A two-sided promotional postcard combining fleet-service messaging, benefits and a direct response call to action.",
+      "image": "/assets/images/postcard-fleet-services.jpg",
+      "featured": false
+    },
+    {
+      "slug": "online-pflegebox-postcard",
+      "title": "Online Pflegebox — Service Postcard",
+      "category": "Print & Digital",
+      "type": "Promotional postcard",
+      "description": "A service-focused postcard using lifestyle imagery, concise benefit messaging and a clear QR-code prompt.",
+      "image": "/assets/images/postcard-care-services.jpg",
+      "featured": false
+    }
+  ]
+}

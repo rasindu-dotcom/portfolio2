@@ -1,0 +1,53 @@
+media:
+  input: assets/images
+  output: /assets/images
+
+content:
+  - name: portfolio
+    label: Portfolio Projects
+    type: file
+    path: projects.json
+    format: json
+    fields:
+      - name: projects
+        label: Projects
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: slug
+            label: URL slug
+            type: string
+            required: true
+            pattern: "^[a-z0-9-]+$"
+          - name: title
+            label: Project title
+            type: string
+            required: true
+          - name: category
+            label: Category
+            type: select
+            options:
+              values:
+                - Flyers
+                - One-Pagers
+                - Brochures
+                - Business Documents
+                - Print & Digital
+            required: true
+          - name: type
+            label: Project type
+            type: string
+          - name: description
+            label: Description
+            type: text
+          - name: image
+            label: Project image
+            type: image
+            required: true
+            description: Upload an image to assets/images. The website will use this image for the project preview.
+          - name: featured
+            label: Show on homepage
+            type: boolean
